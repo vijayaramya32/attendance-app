@@ -13,9 +13,7 @@ http://localhost:5000
 .env.example:REACT_APP_API_URL=http://localhost:5000/api
 ouput photos:
 
-![my history](https://github.com/user-attachments/assets/ea2fe7f9-5e9c-4d82-ad86-8cb4aa7eace2)
-![login](https://github.com/user-attachments/assets/2d1bf71d-2d16-4d75-8ea3-a6abd58808ee)
-![profile](https://github.com/user-attachments/assets/45dcee82-1f91-46bd-89ac-2d53fbb38398)
+
 Working application:
 Frontend (React.js)
 
